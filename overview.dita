@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="overview_0">
+    <title>Order Management API</title>
+    
+    <shortdesc>
+        The Order Management API allows applications to create, retrieve, and manage customer orders.
+    </shortdesc>
+    
+    <body>
+        <section>
+            <title>Audience</title>
+            <p>This documentation is intended for software developers,integrators, and technical teams.</p>
+        </section>
+        
+        <section>
+        <title>Prerequisites</title>
+            <ul id="Prerequisites">
+                <li> Basic knowledge of REST APIs</li>
+                <li>Understanding of JSON format</li>
+                <li>API access credentials </li>
+            </ul>
+        </section>
+        
+        <section>
+            <title>Authentication</title>
+            <p>All requests require an API key in the request header.</p>
+        </section>
+    </body>
+</topic>
