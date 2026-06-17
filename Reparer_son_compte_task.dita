@@ -11,19 +11,19 @@
             commencer.</prereq>
         <steps>
             <step>
-                <cmd>Accédez à votre écran Accueil.</cmd>
+                <cmd>Rendez-vous sur l'écran Accueil.</cmd>
             </step>
             <step>
                 <cmd>Touchez l'icône <b>Plus</b> au bas de l'écran.</cmd>
             </step>
             <step>
-                <cmd>Touchez <b>Paramètres</b>.</cmd>
+                <cmd>Touchez l'icône <b>Paramètres</b>.</cmd>
             </step>
             <step>
                 <cmd>Touchez <b>Informations techniques</b>.</cmd>
             </step>
             <step>
-                <cmd>A côté de « Réparer votre compte Kobo », touchez <b>Réparer</b>.</cmd>
+                <cmd>Touchez <b>Réparer</b>, à côté de « Réparer votre compte Kobo ».</cmd>
             </step>
             <step>
                 <cmd>Touchez <b>Réparer maintenant</b>.</cmd>
