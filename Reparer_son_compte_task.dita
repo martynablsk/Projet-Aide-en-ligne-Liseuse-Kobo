@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="réinitialiser_task">
+    <title>Réparer son compte Kobo</title>
+    <shortdesc>S'il vous manque du contenu ou des couvertures de livres sur l'<b>application
+            Kobo</b> Desktop, vous pouvez <b>réparer</b> votre <b>compte</b>. En réparant votre
+            <b>compte</b>, vous téléchargerez à nouveau les couvertures ou les livres manquants sur
+            l'<b>application Kobo</b> Desktop.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_e1x_d15_pjc">L'accès à une connexion Wi Fi active est nécessaire avant de
+            commencer.</prereq>
+        <steps>
+            <step>
+                <cmd>Accédez à votre écran Accueil.</cmd>
+            </step>
+            <step>
+                <cmd>Touchez l'icône <b>Plus</b> au bas de l'écran.</cmd>
+            </step>
+            <step>
+                <cmd>Touchez <b>Paramètres</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Touchez <b>Informations techniques</b>.</cmd>
+            </step>
+            <step>
+                <cmd>A côté de « Réparer votre compte Kobo », touchez <b>Réparer</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Touchez <b>Réparer maintenant</b>.</cmd>
+                <info><note id="note_pmr_db3_ljc" type="note">Le processus de réparation
+                        commence. Si vous avez beaucoup de livres, cela peut durer un moment.</note></info>
+            </step>
+            </steps>
+                
+                        
+    </taskbody>
+</task>

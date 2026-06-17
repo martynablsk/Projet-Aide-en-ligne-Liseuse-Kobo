@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="réinitialisation_mot_de_passe_concept">
+    <title>À propos de la liseuse Kobo</title>
+    
+    <conbody>
+        <p>La liseuse Kobo permet une lecture de jour comme nuit sans se fatiguer les yeux, grâce à
+            la technologie de l'encre électronique (E-ink) qui imite le papier.</p>
+        <p>La liseuse Kobo offre : <ul id="ul_jnm_rk5_pjc">
+                <li>un espace de stockage suffisant pour une vie entière de lecture,</li>
+                <li>une batterie pouvant tenir jusqu'à plusieurs semaines,</li>
+                <li>un accès à la boutique Kobo, <note id="note_gwv_f35_pjc">Pour plus
+                        d'informations sur l'application Kobo Desktop consultez <xref
+                            href="A_propos_application_reference.dita" format="dita">cette
+                            page</xref>.</note></li>
+                <li>une prise en charge de nombreux formats de livres numériques (EPUB, PDF, texte
+                    brut, HTML, MOBI et PRC). <note>S'il manque des livres sur votre liseuse, tentez
+                        de réparer votre compte Kobo en suivant la procédure juste <xref
+                            href="Reparer_son_compte_task.dita" format="dita"
+                    >ici</xref>.</note></li>
+            </ul></p>
+    </conbody>
+</concept>

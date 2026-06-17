@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="contraintes_reference">
+    <title>À propos de l'application Kobo Desktop</title>
+    <shortdesc>Kobo Desktop est une application gratuite pour PC et Mac qui vous permet de réaliser
+        des achats dans la Librairie Kobo et de gérer vos livres sur votre liseuse.</shortdesc>
+    <refbody>
+        <example>
+            <p><b>Kobo Desktop vous permet : </b><ul id="ul_crb_vg5_pjc">
+                    <li>Ajouter et supprimer des livres de votre liseuse.</li>
+                    <li>De lire les livres que vous avez achetés sur Kobo.</li>
+                    <li>D’acheter des livres sur votre ordinateur.</li>
+                    <li>De synchroniser votre liseuse.</li>
+                </ul></p>
+
+                        <p>Pour télécharger Kobo Desktop, rendez-vous sur : <xref
+                    href="https://www.kobo.com/us/en/p/desktop" format="html" scope="external"/>
+            </p>
+                        <p>Pour en savoir plus sur l'application Kobo Desktop, consultez :<xref
+                    href="https://help.kobo.com." format="html" scope="external"/></p>
+        </example>
+    </refbody>
+</reference>
